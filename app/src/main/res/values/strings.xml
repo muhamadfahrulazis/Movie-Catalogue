@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">Movie Catalogue</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movies">Movies</string>
+    <string name="tv_show">Tv Show</string>
+    <string name="contentdescription">contentDescription</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="watch_trailer">Watch Trailer</string>
+    <string name="country">Country</string>
+    <string name="rating">Rating</string>
+    <string name="released">Released</string>
+    <string name="votes">Votes</string>
+    <string name="genres">Genres</string>
+    <string name="description">Description</string>
+    <string name="base_path_image">https://image.tmdb.org/t/p/w500%s</string>
+    <string name="share_text">Watch %s now.</string>
+    <string name="base_path_youtube">https://www.youtube.com/embed/%s</string>
+    <string name="notification">Notification</string>
+    <string name="empty_notification">there is no any information here at this time</string>
 </resources>
